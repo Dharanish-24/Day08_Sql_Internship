@@ -8,7 +8,7 @@
             -- Procedure logic (INSERT, UPDATE, DELETE)
         END;
         $$;
-![image]()
+![image](https://github.com/Dharanish-24/Day08_Sql_Internship/blob/main/Screenshot%202025-07-04%20120427.png)
 ## FUNCTION
 - **CREATE FUNCTION** — returns a value
          
